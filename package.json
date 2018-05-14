@@ -1,6 +1,6 @@
 {
   "name": "doclever-node-plugin-xin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "【优信前端】从DOCLever系统获取接口mock 数据",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "follow-redirects": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alan-W/doclever-node-plugin-xin.git"
   }
 }
